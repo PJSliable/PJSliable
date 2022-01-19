@@ -1,6 +1,8 @@
 ### Hi there 👋  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongsun1993)](https://solved.ac/jongsun1993/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parksoeun)](https://solved.ac/parksoeun/)
+
 <!--
 **PJSliable/PJSliable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
