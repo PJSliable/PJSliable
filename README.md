@@ -1,14 +1,9 @@
 ### Hi there 👋  
 실버4 220119  
-#
 실버2 220121  
-#
 골드5 220206  
-#
 골드4 220217  
-#
 골드3 220311  
-#
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongsun1993)](https://solved.ac/jongsun1993/)
 
