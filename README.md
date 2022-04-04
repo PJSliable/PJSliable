@@ -4,6 +4,7 @@
 골드5 220206  
 골드4 220217  
 골드3 220311  
+골드2 220403
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongsun1993)](https://solved.ac/jongsun1993/)
 
