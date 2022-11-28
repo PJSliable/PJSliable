@@ -3,9 +3,9 @@
 
 # Experience
 
-#### 2013.03 ~ 2021.08 Ajou University Bachelor of Science in Mathematics, Bachelor of Arts in Economics
-#### 2021.08 ~ 2021.12 Google Developers Machine Learning Bootcamp 2021
-#### 2022.01 ~ now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samsung Software Academy For Youth (SSAFY) 7th
+#### 2013.03 ~ 2021.08&nbsp; Ajou University Bachelor of Science in Mathematics, Bachelor of Arts in Economics
+#### 2021.08 ~ 2021.12&nbsp; Google Developers Machine Learning Bootcamp 2021
+#### 2022.01 ~ now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samsung Software Academy For Youth (SSAFY) 7th
 
 <br/>
 
