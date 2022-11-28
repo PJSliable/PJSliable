@@ -30,16 +30,16 @@
 
 https://img.shields.io/badge/Java-ff405?style={스타일}&logo={로고}&logoColor={로고컬러} -->
 
-
+<br />
 
 # Baekjoon Record 👋  
 
-<img src="https://img.shields.io/badge/-%EC%8B%A4%EB%B2%844%20220119-lightgrey"/></a> <!-- 실버4 220119 -->
-<img src="https://img.shields.io/badge/-%EC%8B%A4%EB%B2%842%20220121-lightgrey"/></a> <!-- 실버2 220121 -->  
-<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C5%20220206-gold"/></a> <!-- 골드5 220206 -->
-<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C4%20220217-gold"/></a> <!-- 골드4 220217 -->
-<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C3%20220311-gold"/></a> <!-- 골드3 220311 -->
-<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C2%20220403-gold"/></a> <!-- 골드2 220403 -->
+<img src="https://img.shields.io/badge/-%EC%8B%A4%EB%B2%844%2020220119-lightgrey"/></a> <!-- 실버4 220119 -->
+<img src="https://img.shields.io/badge/-%EC%8B%A4%EB%B2%842%2020220121-lightgrey"/></a> <!-- 실버2 220121 -->  
+<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C5%2020220206-gold"/></a> <!-- 골드5 220206 -->
+<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C4%2020220217-gold"/></a> <!-- 골드4 220217 -->
+<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C3%2020220311-gold"/></a> <!-- 골드3 220311 -->
+<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C2%2020220403-gold"/></a> <!-- 골드2 220403 -->
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongsun1993)](https://solved.ac/jongsun1993/)
