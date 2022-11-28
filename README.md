@@ -1,9 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFA883&height=300&section=header&text=Jongsun%20Park%20&fontSize=90)
 
+
+# Experience
+
+#### 2013.03 ~ 2021.08 Ajou University Bachelor of Science in Mathematics, Bachelor of Arts in Economics
+#### 2021.08 ~ 2021.12 Google Developers Machine Learning Bootcamp 2021
+#### 2022.01 ~ now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samsung Software Academy For Youth (SSAFY) 7th
+
+<br/>
+
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-red?style=plastic&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=plastic&logo=Springboot&logoColor=white"/></a>
 
@@ -32,6 +42,12 @@ https://img.shields.io/badge/Java-ff405?style={스타일}&logo={로고}&logoColo
 
 <br />
 
+# Stats
+
+![PJSliable's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJSliable&show_icons=true&transparent)
+
+<br />
+
 # Baekjoon Record 👋  
 
 <img src="https://img.shields.io/badge/-%EC%8B%A4%EB%B2%844%2020220119-lightgrey"/></a> <!-- 실버4 220119 -->
@@ -45,7 +61,10 @@ https://img.shields.io/badge/Java-ff405?style={스타일}&logo={로고}&logoColo
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongsun1993)](https://solved.ac/jongsun1993/)
 
 
-
+<br />
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPJSliable%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 
 <!--
 **PJSliable/PJSliable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
