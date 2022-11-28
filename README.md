@@ -48,7 +48,7 @@ https://img.shields.io/badge/Java-ff405?style={스타일}&logo={로고}&logoColo
 
 <br />
 
-# Baekjoon Record 👋  
+# Baekjoon Record 
 
 <img src="https://img.shields.io/badge/-%EC%8B%A4%EB%B2%844%2020220119-lightgrey"/></a> <!-- 실버4 220119 -->
 <img src="https://img.shields.io/badge/-%EC%8B%A4%EB%B2%842%2020220121-lightgrey"/></a> <!-- 실버2 220121 -->  
