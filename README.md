@@ -4,8 +4,11 @@
 # Experience
 
 #### 2013.03 ~ 2021.08&nbsp; Ajou University Bachelor of Science in Mathematics, Bachelor of Arts in Economics
+- 2017.11 제 3회 아주 산업수학 데이터 경진대회 최우수상
 #### 2021.08 ~ 2021.12&nbsp; Google Developers Machine Learning Bootcamp 2021
-#### 2022.01 ~ now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samsung Software Academy For Youth (SSAFY) 7th
+- 2021.11 TensorFlow Developer Certificate 
+#### 2022.01 ~ &nbsp;&nbsp;&nbsp;now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samsung Software Academy For Youth (SSAFY) 7th
+- 2022.10 SSAFY 7th 특화 프로젝트 우수상
 
 <br/>
 
