@@ -61,7 +61,7 @@ https://img.shields.io/badge/Java-ff405?style={스타일}&logo={로고}&logoColo
 <img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C4%2020220217-gold"/></a> <!-- 골드4 220217 -->
 <img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C3%2020220311-gold"/></a> <!-- 골드3 220311 -->
 <img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C2%2020220403-gold"/></a> <!-- 골드2 220403 -->
-
+<img src="https://img.shields.io/badge/-%EA%B3%A8%EB%93%9C1%2020230210-gold"/></a> <!-- 골드1 20230210 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongsun1993)](https://solved.ac/jongsun1993/)
 
