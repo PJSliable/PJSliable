@@ -9,7 +9,7 @@
 
 #### 2021.08 ~ 2021.12&nbsp; Google Developers Machine Learning Bootcamp 2021
 - 2021.11 TensorFlow Developer Certificate 
-#### 2022.01 ~ &nbsp;&nbsp;&nbsp;now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samsung Software Academy For Youth (SSAFY) 7th
+#### 2022.01 ~ 2022.12&nbsp; Samsung Software Academy For Youth (SSAFY) 7th
 - 2022.10 SSAFY 7th 특화 프로젝트 우수상
 
 <br/>
