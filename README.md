@@ -11,6 +11,7 @@
 - 2021.11 TensorFlow Developer Certificate 
 #### 2022.01 ~ 2022.12&nbsp; Samsung Software Academy For Youth (SSAFY) 7th
 - 2022.10 SSAFY 7th 특화 프로젝트 우수상
+- 2022.12 SSAFY SW Certificate 우수 등급(상위 30%내)
 
 <br/>
 
